@@ -1,0 +1,7 @@
+{
+  "name": "capybara",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
